@@ -1,0 +1,309 @@
+header {
+    color: navy;
+    font-family: 'Lucida Sans';
+    text-align: center;
+    margin-top: 5px;
+    padding-bottom: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 15px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+}
+
+body {
+    font-family: 'Lucida Sans';
+    color: navy;
+    background-color: cornsilk;
+    background-image: url(images/gcitaly.jpg);
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+link {
+  color: green;
+}
+
+p {
+    font-family: 'Lucida Sans'
+    color: white;
+    padding: 5px;
+}
+
+
+main {
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 10px;
+    background-color:  rgba(0, 0, 0, 0.5);
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+input {
+    display: inline-block;
+    float: left;
+}
+
+.navc {
+    background-color: purple;
+    border-radius: 10px;
+    text-align: center;
+    border-color: white;
+    border-style: solid;
+    margin-right: 5px;
+    margin-left: 5px;
+    }
+
+.title_style {
+    background-color: darkblue;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
+.button {
+    color: white;
+    font-weight: bold;
+}
+
+.button:hover {
+                color: rgba(63, 121, 165);
+                text-decoration: none;
+
+}
+*/
+
+.floatl {
+    float: left;
+    border-style: solid;
+    border-color: #58595d;
+    border-width: 3px;
+    margin-right: 10px;
+
+}
+
+.floatr {
+    float: right;
+    border-style: solid;
+    border-color: #58595d;
+    border-width: 3px;
+    margin-left: 10px;
+}
+
+.information {
+    background-color: white;
+    color: #1e4c76;
+    border-radius: 10px;
+    padding: 10px;
+    border-style: solid;
+    border-color: #58595d;
+    font-family: 'lucida sans';
+}
+
+.divbgc {
+    background-color: rgba(63, 121, 165, 0.6);
+    border-style: solid;
+    border-color: white;
+    margin-bottom: 15px;
+    border-width: 3px;
+    border-radius: 10px;
+}
+
+.divbgc2 {
+    background-color: rgba(63, 121, 165, 0.6);
+    border-style: solid;
+    border-color: white;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    border-width: 3px;
+    border-radius: 10px;
+}
+
+
+.logo {
+    border-style: ridge;
+    border-color: black;
+    border-radius: 10px;
+}
+
+.headerdec {
+    background-color: white;
+    color: #58595d;
+    padding: 5px;
+    border-radius: 10px;
+    font-weight: bold;
+    border-bottom-style: sol
+}
+
+.centertext {
+    text-align: center;
+}
+
+.form {
+background-color: rgba(63, 121, 165, 0.6);
+padding-bottom: 120px;
+width: 100%;
+max-width: ;
+min-width: 350px;
+border-radius: 6px;
+font-size: large;
+max-height: 650px;
+border-style: solid;
+border-color: white;
+margin-bottom: 15px;
+border-width: 3px;
+margin-top: 15px;
+            }
+
+textarea {
+    width:300px;
+    height:150px;
+    width: 80%
+}
+
+.sbutton {
+    background-color:white;
+    padding: 6px 10px 6px 10px;
+    border-width: 1px;
+}
+
+ .sbutton:hover {
+    color: black;
+     background-color: gainsboro;
+    text-decoration: none;
+}
+
+.container {
+    width: 500px;
+    clear:both;
+}
+
+
+.container2 {
+    width: 500p;
+    clear:both;
+}
+
+.container_input {
+    width:100%;
+    clear: both;
+}
+
+label {
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 164px;
+    text-align: right;
+    color: white;
+}
+
+.label2 {
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: auto;
+    text-align: left;
+    color: white;
+}
+
+.spacing {
+    margin-bottom: 6px;
+}
+
+.center {
+    display:flex;
+    justify-content: center;
+}
+
+.hspacing {
+    padding-top: 25px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.hspacing2 {
+    padding-top: 50px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.spacing2 {
+    margin-bottom: 50px;
+}
+
+.spacing3 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.video {
+    border-style: solid;
+    border-color: white;
+    margin-bottom: 15px;
+    border-width: 3px;
+    border-radius: 10px;
+}
+
+.notextdec
+{
+    text-decoration: none;
+}
+
+.tpadding {
+    padding-bottom: 15px;
+}
+
+.submitbgc {
+    background-color: rgba(63, 121, 165, 0.6);
+    border-style: solid;
+    border-color: white;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    border-width: 1px;
+    border-radius: 10px;
+    width: 50%;
+    padding: 10px;
+}
+
+.dsize {
+    max-width: 270px;
+    margin: 0 auto;
+    float: none;
+    margin-top: 6px;
+}
+
+.dsize2 {
+    max-width: 310px;
+    margin: 0 auto;
+    float: none;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.dsize3 {
+    max-width: 480px;
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+    margin-top: 110px;
+}
+
+.dropped {
+    background-color: white;
+}
